@@ -1,1 +1,1 @@
-### Basic todo app using flask and SQLalchemy 
+Basic todo app using flask and SQLalchemy 
